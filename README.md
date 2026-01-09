@@ -84,6 +84,8 @@ I am deeply passionate about:
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Vibe Coding" />
 </div>
 
+
+#### 🔗 Connect
 [linkedin]: https://www.linkedin.com/in/dripto-roy/
 [orcid]: https://orcid.org/0009-0000-6443-2978
 
