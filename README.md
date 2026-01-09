@@ -4,10 +4,10 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6CE39&center=true&vCenter=true&width=435&lines=Master's+in+Genome+Science+%F0%9F%A7%AC;Python+%26+Bioinformatics+%F0%9F%90%8D;Microbiology+%26+Evolution+%F0%9F%A6%A0;Always+Vibe+Coding+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6CE39&center=true&vCenter=true&width=435&lines=Master's+in+Genome+Science+%F0%9F%A7%AC;Python+%26+Bioinformatics+%F0%9F%90%8D;Microbiology+%26+Evolution+%F0%9F%A6%A0;Passionate+Researcher+%F0%9F%94%AC" alt="Typing SVG" />
 </div>
 
-Hi! I'm **Dripto**, a Genome Scientist who is confident with **Python** and always **vibe coding**. 
+Hi! I'm **Dripto**, a Genome Scientist who is confident with **Python** and a **Passionate Researcher** who is motivated to work in genomics with hands-on laboratory and computational expertise, seeking opportunities to apply skills in gene editing, bioinformatics, and advanced molecular biology. Dedicated to contributing meaningful results in collaborative research environments in the field of biological sciences.
 
 <p align="left">
    <a href="https://orcid.org/0009-0000-6443-2978">
@@ -42,7 +42,7 @@ I am deeply passionate about:
 
 | Degree | Institution | Year | Details |
 | :--- | :--- | :--- | :--- |
-| **M.Sc in Genome Science** | **University of Kalyani** | *2024 - 2026* | CGPA: 8.20 (Sem 2) |
+| **M.Sc in Genome Science** | **University of Kalyani** | *2024 - 2026* | CGPA: 8.20 |
 | **B.Sc in Microbiology (Hons)** | **Sister Nivedita University** | *2021 - 2024* | SGPA: 7.24 (A+ in Dissertation) |
 
 ---
@@ -77,7 +77,6 @@ I am deeply passionate about:
 <br />
 
 
-#
 
 <div align="center">
   <!-- A modern, aesthetic vibe coding GIF -->
@@ -85,7 +84,4 @@ I am deeply passionate about:
 </div>
 
 
-#### 🔗 Connect
-[linkedin]: https://www.linkedin.com/in/dripto-roy/
-[orcid]: https://orcid.org/0009-0000-6443-2978
 
