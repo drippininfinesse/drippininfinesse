@@ -2,6 +2,11 @@
 
 **`Master's Of Science in Genome Science`**
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=A6CE39&center=true&vCenter=true&width=435&lines=Master's+in+Genome+Science+%F0%9F%A7%AC;Python+%26+Bioinformatics+%F0%9F%90%8D;Microbiology+%26+Evolution+%F0%9F%A6%A0;Always+Vibe+Coding+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
 Hi! I'm **Dripto**, a Genome Scientist who is confident with **Python** and always **vibe coding**. 
 
 <p align="left">
@@ -37,7 +42,7 @@ I am deeply passionate about:
 
 | Degree | Institution | Year | Details |
 | :--- | :--- | :--- | :--- |
-| **M.Sc in Genome Science** | **University of Kalyani** | *2024 - 2026* | CGPA: 8.20  |
+| **M.Sc in Genome Science** | **University of Kalyani** | *2024 - 2026* | CGPA: 8.20 (Sem 2) |
 | **B.Sc in Microbiology (Hons)** | **Sister Nivedita University** | *2021 - 2024* | SGPA: 7.24 (A+ in Dissertation) |
 
 ---
@@ -71,14 +76,6 @@ I am deeply passionate about:
 
 <br />
 
-#
-
-### 📊 Stats
-
-<!-- Using 'tokyonight' theme for a modern, dark vibe -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=drippininfinesse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drippininfinesse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 #
 
