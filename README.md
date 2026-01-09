@@ -76,9 +76,9 @@ I am deeply passionate about:
 ### 📊 Stats
 
 <!-- Using 'tokyonight' theme for a modern, dark vibe -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=drippininfinesse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drippininfinesse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 #
 
