@@ -12,8 +12,8 @@ Hi! I'm **Dripto**, a Genome Scientist who is confident with **Python** and alwa
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <!-- Replace 'INSERT_YOUR_USERNAME' with your actual GitHub username below -->
-   <a href="https://github.com/INSERT_YOUR_USERNAME?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/INSERT_YOUR_USERNAME?color=7957d5&labelColor=363636&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   <a href="https://github.com/drippininfinesse?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drippininfinesse?color=7957d5&labelColor=363636&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
 </p>
 
@@ -71,7 +71,21 @@ I am deeply passionate about:
 
 <br />
 
+#
 
+### 📊 Stats
+
+<!-- Using 'tokyonight' theme for a modern, dark vibe -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=drippininfinesse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drippininfinesse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+#
+
+<div align="center">
+  <!-- A modern, aesthetic vibe coding GIF -->
+  <img src="https://media.giphy.com/media/qgQUGGACbTyA8/giphy.gif" width="100%" alt="Vibe Coding" />
+</div>
 
 [linkedin]: https://www.linkedin.com/in/dripto-roy/
 [orcid]: https://orcid.org/0009-0000-6443-2978
