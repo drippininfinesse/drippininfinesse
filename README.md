@@ -71,21 +71,7 @@ I am deeply passionate about:
 
 <br />
 
-#
 
-### 📊 Stats
-
-<!-- Using 'tokyonight' theme for a modern, dark vibe -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=INSERT_YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INSERT_YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-#
-
-<div align="center">
-  <!-- A modern, aesthetic vibe coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUGGACbTyA8/giphy.gif" width="100%" alt="Vibe Coding" />
-</div>
 
 [linkedin]: https://www.linkedin.com/in/dripto-roy/
 [orcid]: https://orcid.org/0009-0000-6443-2978
