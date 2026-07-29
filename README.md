@@ -42,7 +42,7 @@ I am deeply passionate about:
 
 | Degree | Institution | Year | Details |
 | :--- | :--- | :--- | :--- |
-| **M.Sc in Genome Science** | **University of Kalyani** | *2024 - 2026* | CGPA: 8.20 |
+| **M.Sc in Genome Science** | **University of Kalyani** | *2024 - 2026* | CGPA: 8.80 |
 | **B.Sc in Microbiology (Hons)** | **Sister Nivedita University** | *2021 - 2024* | SGPA: 7.24 (A+ in Dissertation) |
 
 ---
